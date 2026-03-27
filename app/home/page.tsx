@@ -1,9 +1,12 @@
-import React from 'react'
 
-const page = () => {
+import Home from "@/components/home/home";
+import Navbar from "@/components/layout/Navbar";
+
+export default function HomePage() {
   return (
-    <div>home</div>
-  )
+    <>
+    <Navbar/>
+      <Home />
+         </>
+  );
 }
-
-export default page

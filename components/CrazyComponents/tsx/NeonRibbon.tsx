@@ -229,7 +229,7 @@ export default function Shaders() {
                 <div className="mt-12 pointer-events-auto">
                 <Link href="/home">
                     <button className="px-8 py-3 border border-white/20 rounded-full hover:bg-white/10 transition-colors backdrop-blur-sm">
-                        Get Started
+                        Join MLSA
                     </button>
                 </Link>
                 </div>
